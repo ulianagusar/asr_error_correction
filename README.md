@@ -1,4 +1,5 @@
 Сorrection scheme
+
 <img width="778" height="1172" alt="image" src="https://github.com/user-attachments/assets/ea993212-99fb-4892-a2b5-423ee626ee7d" />
 
 Detailed information and documentation
